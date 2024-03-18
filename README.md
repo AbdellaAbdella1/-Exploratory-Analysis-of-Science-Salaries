@@ -1,5 +1,5 @@
-# -Exploratory-Analysis-of-Science-Salaries
-This project aims to perform an exploratory analysis of science salaries using data obtained from Kaggle. The dataset was collected on 02/03/2024 and provides insights into the salaries of professionals in the field of data science.
+# -Exploratory-Analysis-of_ Data Science-Salaries
+This project aims to perform an exploratory analysis of data science salaries using data obtained from Kaggle. The dataset was collected on 02/03/2024 and provides insights into the salaries of professionals in the field of data science.
 Cambridge Spark, a prominent education institution specializing in data science and machine learning bootcamps, undertook this project to understand the trends and factors influencing salaries in the science domain. The dataset offers a variety of features such as job titles, years of experience, educational qualifications, and salary information. Through this analysis, we aim to uncover patterns, correlations, and insights that can provide valuable information to professionals, job seekers, and employers in the science and data science sectors.
 
 The analysis will involve data cleaning, exploratory data analysis (EDA), visualization, and possibly machine learning modeling to predict salary trends based on various factors. By leveraging Python programming and data analysis libraries such as Pandas, NumPy, Matplotlib, and Seaborn, we will delve into the dataset to extract meaningful insights and present them in a clear and interpretable manner.
